@@ -1,15 +1,15 @@
-# 🚕 Bengaluru Ride-Hailing Power BI Dashboard
+#  Bengaluru Ride-Hailing Power BI Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 
 Comprehensive Power BI dashboard analyzing ride-hailing data for Bengaluru city, providing deep insights into urban transportation dynamics.
 
-### 🌍 Dashboard Insights
+###  Dashboard Insights
 - **Total Rides**: 100,000
 - **Date Range**: February 24, 2025 - March 23, 2025
 - **Geographic Focus**: Bengaluru, India
 
-## 🔍 Key Performance Indicators
+##  Key Performance Indicators
 
 ### Ride Statistics
 - **Total Bookings**: 100,000
@@ -19,7 +19,7 @@ Comprehensive Power BI dashboard analyzing ride-hailing data for Bengaluru city,
   - Driver Cancellations: 18%
 - **Incomplete Rides**: 6%
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### 1. Vehicle Type Analysis
 - Breakdown by vehicle type
@@ -51,7 +51,7 @@ Comprehensive Power BI dashboard analyzing ride-hailing data for Bengaluru city,
 - Power BI Service (recommended for sharing)
 - Dataset: Bengaluru Ride-Hailing CSV
 
-## 🚀 How to Use the Dashboard
+##  How to Use the Dashboard
 
 1. **Prerequisites**
    - Download Power BI Desktop
@@ -74,9 +74,9 @@ Comprehensive Power BI dashboard analyzing ride-hailing data for Bengaluru city,
 - Dynamic date range selection
 - Vehicle type comparisons
 
-## 👥 Created By
+##  Created By
 Parvej
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 - Bengaluru transportation ecosystem
 - Power BI visualization community
